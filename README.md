@@ -14,4 +14,8 @@ https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html <br
 쏘카에서 만든 차량 dent 탐지 모델이다. <br/>
 이 방법 따라해봐도 괜찮을 것 같다. <br/>
 <br/> <br/>
-이거 해보기 전에 얼른 개발 환경이 구축되어야 할텐데..
+이거 해보기 전에 얼른 개발 환경이 구축되어야 할텐데.. <br/>
+
+그리고 추가로 <br/>
+https://annajin.tistory.com/189  <br/>
+이 블로그에 마크다운 방식이 적혀있으니 다음 readme 수정 때 쓰면 좋을 것 같다.  <br/>
